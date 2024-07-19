@@ -10,7 +10,7 @@ import java.util.List;
 
 @RestController
 @RequestMapping("/medilife")
-@CrossOrigin(origins = "http://localhost:3000")
+//@CrossOrigin(origins = "http://localhost:3000")
 public class CategoryController {
 
     @Autowired
